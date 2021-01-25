@@ -1,10 +1,10 @@
 import React from 'react';
-import {Editor} from "./components"
+import {CodeEditor} from "./components"
 
 function App() {
   return (
     <div className="App">
-      <Editor/>
+      <CodeEditor/>
     </div>
   );
 }
